@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/new_strategy_1.dir/project/src/allomant.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/allomantic_power.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/being.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/cell.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/field.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/game.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/graphics.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/item.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/main.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/menu.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/metal.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/mistborn.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/misting.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/object.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/page.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/player.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/soldier.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/store.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/tab.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/ui.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/project/src/button.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/color.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/contextsettings.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/event.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/image.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/rect.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/string.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/system.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/vector2.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/videomode.cpp.o"
+  "CMakeFiles/new_strategy_1.dir/graphic_wrap/src/window.cpp.o"
+  "new_strategy_1.pdb"
+  "new_strategy_1"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/new_strategy_1.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

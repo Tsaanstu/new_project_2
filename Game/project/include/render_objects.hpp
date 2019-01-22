@@ -1,0 +1,9 @@
+#ifndef PROJECT_INCLUDE_RENDER_OBJECTS_HPP_
+#define PROJECT_INCLUDE_RENDER_OBJECTS_HPP_
+
+class Text {
+ private:
+    
+};
+
+#endif // PROJECT_INCLUDE_RENDER_OBJECTS_HPP_

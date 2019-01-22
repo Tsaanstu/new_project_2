@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="new_strategy_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tsaanstu/new_strategy_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tsaanstu/new_strategy_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tsaanstu/new_strategy_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="new_strategy_1">
+				<Option output="/home/tsaanstu/new_strategy_1/cmake-build-debug/new_strategy_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tsaanstu/new_strategy_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tsaanstu/new_strategy_1/project/include"/>
+					<Add directory="/home/tsaanstu/new_strategy_1/graphic_wrap/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 new_strategy_1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="new_strategy_1/fast">
+				<Option output="/home/tsaanstu/new_strategy_1/cmake-build-debug/new_strategy_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tsaanstu/new_strategy_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tsaanstu/new_strategy_1/project/include"/>
+					<Add directory="/home/tsaanstu/new_strategy_1/graphic_wrap/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 new_strategy_1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tsaanstu/new_strategy_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/color.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/contextsettings.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/event.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/image.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/rect.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/string.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/system.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/vector2.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/videomode.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/graphic_wrap/src/window.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/allomant.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/allomantic_power.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/being.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/button.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/cell.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/field.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/game.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/graphics.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/item.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/main.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/menu.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/metal.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/mistborn.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/misting.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/object.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/page.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/player.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/soldier.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/store.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/tab.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/project/src/ui.cpp">
+			<Option target="new_strategy_1"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/tsaanstu/new_strategy_1/cmake_modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

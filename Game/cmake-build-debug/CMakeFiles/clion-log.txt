@@ -1,0 +1,12 @@
+/home/tsaanstu/Загрузки/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tsaanstu/new_strategy_1
+-- Found SFML .. in /usr/include
+-- Boost version: 1.67.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Boost_INCLUDE_DIRS: /usr/include
+-- Boost_LIBRARIES: /usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so
+-- Boost_VERSION: 106700
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tsaanstu/new_strategy_1/cmake-build-debug

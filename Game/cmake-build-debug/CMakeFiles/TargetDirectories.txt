@@ -1,0 +1,3 @@
+/home/tsaanstu/new_strategy_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tsaanstu/new_strategy_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tsaanstu/new_strategy_1/cmake-build-debug/CMakeFiles/new_strategy_1.dir

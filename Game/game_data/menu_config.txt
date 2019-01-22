@@ -1,0 +1,7 @@
+main:
+Play 250 180
+Store 250 280
+About 250 380
+About:
+about 10 500
+Назад 100 970
